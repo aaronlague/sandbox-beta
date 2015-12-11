@@ -360,3 +360,9 @@ th {
 .container form {
   padding: 10px 10px 20px 10px;
 }
+.container fieldset {
+  border: none;
+}
+.container fieldset input {
+  border: 1px solid green;
+}
